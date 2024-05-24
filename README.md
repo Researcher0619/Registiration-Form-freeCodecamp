@@ -33,7 +33,7 @@ This project is a user registration form designed using HTML and CSS. The form c
 1. **Clone the repository**:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Researcher0619/Survey-Form-freeCodecamp.git
     ```
 
 2. **Navigate to the project directory**:
